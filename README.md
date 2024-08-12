@@ -12,9 +12,7 @@
 
 - 🔭 I’m currently working on my **MERN Project**
 
-- 🌱 I’m currently learning **Python, Django, HTML5, CSS3, SweetAlert, ChartJs and Firebase**
-
-- 👯 I’m looking to collaborate on **front-end, back-end, arduino and IoT projects**
+- 👯 I’m looking to collaborate on **front-end and back-end projects**
 
 - 📫 How to reach me: **majed_khaldi@hotmail.com**
 
@@ -38,22 +36,16 @@
 </p>
 
 <br>
-<div align="center">
-<h3><b>  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50"/>&nbsp; Git profile Trophies</b></h3>
-</div>
-<div align="center">
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majedkhaldi" alt="majedkhaldi" /></a> </p>
-</div>
+
 
 <br>
 <div align="center">
 <h3><b>😄 Connect With Me</b></h3>
 </div>
 <p align="center">
-<a href="https://codepen.io/majedkhaldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="majedkhaldi" height="30" width="40" /></a>
-<a href="https://twitter.com/majedkhaldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="majedkhaldi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rock1223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rock1223" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rock1223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rock1223" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/majed-alkhaldi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Majed" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/majed_khaldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rock1223" height="30" width="40" /></a>
 </p>
 <br>
 
