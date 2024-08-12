@@ -1,5 +1,4 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=majedkhaldi&label=Profile%20views&color=0e75b6&style=flat" alt="majedkhaldi" /> </p>
 
 <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px">, I'm Majed Alkhaldi</h1>
 
@@ -57,12 +56,6 @@
 <a href="https://www.hackerrank.com/rock1223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rock1223" height="30" width="40" /></a>
 </p>
 <br>
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/majedkhaldi/majedkhaldi/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 
------
 
-[Avinash](https://github.com/majedkhaldi)
-Last Edited on : 10 + 11 = 21
+
